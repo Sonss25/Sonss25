@@ -12,12 +12,12 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/svgs/androidstudio.svg" width="0"/>
+
 
 ## 🛰️ About Me
 
 ```yaml
-name: Wilson (Sonss25)
+name: Wilson
 role: IT Operations Engineer / Web Developer
 focus: Infrastructure reliability + full-stack web development
 location: 🌌 Somewhere between the server room and the frontend
@@ -27,8 +27,9 @@ fun_fact: I keep systems running AND ship UIs that look good doing it
 
 - 🔧 I keep systems, networks, and operations running smoothly behind the scenes
 - 💻 I build full-stack web apps — from REST APIs to polished, responsive UIs
-- 🌐 Portfolio: **[wilsss.vercel.app](https://wilsss.vercel.app)**
 - 📡 Always exploring new tools at the intersection of ops and dev (DevOps curious)
+- 🌐 Portfolio: **[wilsss.vercel.app](https://wilsss.vercel.app)**
+
 
 <br/>
 
@@ -41,7 +42,6 @@ fun_fact: I keep systems running AND ship UIs that look good doing it
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D4FF&labelColor=0B1120" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0B1120" />
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0B1120" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=2965F1&labelColor=0B1120" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=0B1120" />
 
 **Backend**
@@ -65,23 +65,6 @@ fun_fact: I keep systems running AND ship UIs that look good doing it
 
 </div>
 
-<br/>
-
-## 📊 Mission Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sonss25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=00D4FF&icon_color=3B82F6&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonss25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=00D4FF&text_color=C9D1D9" width="35%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sonss25&theme=tokyonight&hide_border=true&background=0B1120&stroke=3B82F6&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="70%"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -89,10 +72,10 @@ fun_fact: I keep systems running AND ship UIs that look good doing it
 | 🛠️ Project | 📝 Description | 🔗 Link |
 |:--|:--|:--:|
 | **Portfolio Site** | Personal portfolio built to showcase projects & skills | [Visit ↗](https://wilsss.vercel.app) |
-| *Project Name* | *Short description of what it does and the stack used* | *repo link* |
-| *Project Name* | *Short description of what it does and the stack used* | *repo link* |
+| **Cozy Plushies Store** | Website to sell, buy, and trade Stuffed Toys and Plushies | [Visit ↗](https://cozy-plushies.vercel.app) |
+| **My Clients Websites** | E-Commerce, Gamified Systems, Management Systems, and etc. | *Not for Public* |
 
-*(Swap in your pinned repos here — happy to help write these descriptions if you share the repo links!)*
+
 
 </div>
 
