@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://wilsss.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+Building+scalable+systems...;%3E+Crafting+clean+interfaces...;%3E+IT+Operations+%2B+Web+Development;%3E+Welcome+to+my+corner+of+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+Building+Scalable+Systems...;%3E+Crafting+Clean+Interfaces...;%3E+IT+Operations+%2B+Web+Development;%3E+Welcome+to+my+Github+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
