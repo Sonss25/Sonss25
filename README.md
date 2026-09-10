@@ -21,12 +21,12 @@ name: Wilson
 role: IT Operations Engineer / Web Developer
 focus: Infrastructure reliability + full-stack web development
 location: 🌌 Somewhere between the server room and the frontend
-currently_building: wilsss.vercel.app
-fun_fact: I keep systems running AND ship UIs that look good doing it
+Portfolio: wilsss.vercel.app
+fun fact: I keep systems running AND ship UIs that look good doing it :) 
 ```
 
 - 🔧 I keep systems, networks, and operations running smoothly behind the scenes
-- 💻 I build full-stack web apps — from REST APIs to polished, responsive UIs
+- 💻 I build full-stack web apps from REST APIs to polished, responsive UIs
 - 📡 Always exploring new tools at the intersection of ops and dev (DevOps curious)
 - 🌐 Portfolio: **[wilsss.vercel.app](https://wilsss.vercel.app)**
 
