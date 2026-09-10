@@ -63,21 +63,6 @@ fun_fact: I keep systems running AND ship UIs that look good doing it
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0B1120" />
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0B1120" />
 
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🛠️ Project | 📝 Description | 🔗 Link |
-|:--|:--|:--:|
-| **Portfolio Site** | Personal portfolio built to showcase projects & skills | [Visit ↗](https://wilsss.vercel.app) |
-| **Cozy Plushies Store** | Website to sell, buy, and trade Stuffed Toys and Plushies | [Visit ↗](https://cozy-plushies.vercel.app) |
-| **My Clients Websites** | E-Commerce, Gamified Systems, Management Systems, and etc. | *Not for Public* |
-
-
-
-</div>
 
 <br/>
 
